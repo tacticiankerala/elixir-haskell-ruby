@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!*.hs
+!*.rb
+!*.ex
+!*.exs
